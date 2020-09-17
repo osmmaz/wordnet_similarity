@@ -43,5 +43,5 @@ max_sim=sim_fin[0]
 for i in sim_fin:
     if max_sim[3]<i[3]:
         max_sim=i
-print(max_sim)
+print("this is the max sim: ",max_sim)
 
